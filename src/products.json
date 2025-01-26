@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "title": "Rhode Island Mansion",
+        "price": 1999000,
+        "img": "/images/1.jpeg"
+    },
+    {
+        "id": 2,
+        "title": "Private Jet",
+        "price": 40000000,
+        "img": "/images/2.webp"
+    },
+    {
+        "id": 3,
+        "title": "Yacht",
+        "price": 30000000,
+        "img": "/images/3.avif"
+    },
+    {
+        "id": 4,
+        "title": "Designer Wardrobe",
+        "price": 500000,
+        "img": "/images/4.webp"
+    },
+    {
+        "id": 5,
+        "title": "Luxury Sports Car",
+        "price": 300000,
+        "img": "/images/5.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Beachfront Villa",
+        "price": 12000000,
+        "img": "/images/6.jpg"
+    },
+    {
+        "id": 7,
+        "title": "World Tour Concert Setup",
+        "price": 15000000,
+        "img": "/images/7.jpeg"
+    },
+    {
+        "id": 8,
+        "title": "Custom Jewelry",
+        "price": 100000,
+        "img": "/images/8.webp"
+    },
+    {
+        "id": 9,
+        "title": "Charity Donation",
+        "price": 5000000,
+        "img": "/images/9.webp"
+    },
+    {
+        "id": 10,
+        "title": "Luxury Ski Chalet",
+        "price": 8000000,
+        "img": "/images/10.jpg"
+    },
+    {
+        "id": 11,
+        "title": "Private Island",
+        "price": 30000000,
+        "img": "/images/11.webp"
+    },
+    {
+        "id": 12,
+        "title": "Recording Studio",
+        "price": 2500000,
+        "img": "/images/12.jpeg"
+    },
+    {
+        "id": 13,
+        "title": "Vintage Guitar Collection",
+        "price": 750000,
+        "img": "/images/13.jpg"
+    },
+    {
+        "id": 14,
+        "title": "Luxury Handbag Collection",
+        "price": 300000,
+        "img": "/images/14.webp"
+    },
+    {
+        "id": 15,
+        "title": "Professional Ballet Company",
+        "price": 1000000,
+        "img": "/images/15.jpeg"
+    },
+    {
+        "id": 16,
+        "title": "Rare Art Collection",
+        "price": 20000000,
+        "img": "/images/16.webp"
+    },
+    {
+        "id": 17,
+        "title": "Fleet of Tesla Cars",
+        "price": 2000000,
+        "img": "/images/17.jpg"
+    },
+    {
+        "id": 18,
+        "title": "Exclusive Vacation Package",
+        "price": 100000,
+        "img": "/images/18.jpg"
+    },
+    {
+        "id": 19,
+        "title": "5-Star Hotel Suite for a Year",
+        "price": 1500000,
+        "img": "/images/19.jpg"
+    },
+    {
+        "id": 20,
+        "title": "Personal Chef for 10 Years",
+        "price": 1000000,
+        "img": "/images/20.png"
+    },
+    {
+        "id": 21,
+        "title": "Luxury Swimming Pool",
+        "price": 250000,
+        "img": "/images/21.jpg"
+    },
+    {
+        "id": 22,
+        "title": "Cinema Room Installation",
+        "price": 50000,
+        "img": "/images/22.jpg"
+    },
+    {
+        "id": 23,
+        "title": "Custom Home Theater",
+        "price": 200000,
+        "img": "/images/23.jpg"
+    },
+    {
+        "id": 24,
+        "title": "Fine Wine Collection",
+        "price": 500000,
+        "img": "/images/24.jpg"
+    },
+    {
+        "id": 25,
+        "title": "Taylor Swift Music Festival",
+        "price": 10000000,
+        "img": "/images/25.webp"
+    },
+    {
+        "id": 26,
+        "title": "Private Helicopter",
+        "price": 3000000,
+        "img": "/images/26.webp"
+    },
+    {
+        "id": 27,
+        "title": "Vintage Car Collection",
+        "price": 5000000,
+        "img": "/images/27.webp"
+    },
+    {
+        "id": 28,
+        "title": "Luxury Safari Vacation",
+        "price": 150000,
+        "img": "/images/28.jpg"
+    },
+    {
+        "id": 29,
+        "title": "Mega Music Festival Sponsorship",
+        "price": 25000000,
+        "img": "/images/29.jpg"
+    },
+    {
+        "id": 30,
+        "title": "Annual Fan Club Giveaway",
+        "price": 500000,
+        "img": "/images/30.jpg"
+    }
+]
