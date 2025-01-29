@@ -1,12 +1,9 @@
-import React, { useState } from 'react';
+import React from 'react';
 import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
 import products from "../products.json";
 
-function Product({ product }) {
-  const [money, setMoney] = useState(1600000000);
-  const [cart, setCart] = useState([]);
-
+function Product({ money, setMoney, cart, setCart }) {
   const buyProduct = (product) => {
     if (money >= product.price) {
       setMoney((prevMoney) => prevMoney - product.price);
@@ -31,10 +28,10 @@ function Product({ product }) {
   return (
     <div>
       <h2>You have ${money.toLocaleString()} dollars to spend!</h2>
-      <div className='container d-flex'>
+      <div className='container d-flex flex-wrap'>
         {products.map((product) => (
-          <div className="" key={product.id}>
-            <Card className='card '>
+          <div className="product-card" key={product.id}>
+            <Card className='card'>
               <Card.Img variant="top" src={product.img} className="card-img" />
               <Card.Body>
                 <Card.Title>{product.title}</Card.Title>
